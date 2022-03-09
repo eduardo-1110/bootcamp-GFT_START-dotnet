@@ -1,0 +1,15 @@
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.AssemblyReference.cache
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfoInputs.cache
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfo.cs
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\bin\Debug\net6.0\DIO_Series.exe
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\bin\Debug\net6.0\DIO_Series.deps.json
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\bin\Debug\net6.0\DIO_Series.runtimeconfig.json
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\bin\Debug\net6.0\DIO_Series.dll
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\bin\Debug\net6.0\DIO_Series.pdb
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.dll
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\refint\DIO_Series.dll
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.pdb
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\DIO_Series.genruntimeconfig.cache
+C:\Users\Eduardo Borges\Documents\bootcamp\bootcamp_GFT.NET\bootcamp-GFT_START-dotnet\DIO_Series\obj\Debug\net6.0\ref\DIO_Series.dll
